@@ -1,0 +1,12 @@
+public class OracleUserDAO{
+
+
+
+public boolean createAllUserLiveProfiles(){
+  return true;
+}
+
+
+
+
+}
